@@ -35,10 +35,7 @@ pathGenerater
 ・Run(Generete ink effect image file sequence)
 
 
-# Env
-Windows Mac Linux
-
-# Hint
+# memo
 ・using processing's pixelFlow
   [A Processing/Java library for high performance GPU-Computing (GLSL).](https://github.com/diwi/PixelFlow)
 ・json file is written x,y positions.
@@ -84,11 +81,8 @@ pathGenerater
 ・再生ボタンを押すとpngの連番が実時間で書き出される
 
 
-# 動作環境
-Windows Mac たぶん Linuxでも動きます。
-MacおよびLinux環境はProcessing.orgを参照
 
-# ヒント
+# メモ
 ・processingライブラリーpixelFlowを使用しています。
   [A Processing/Java library for high performance GPU-Computing (GLSL).](https://github.com/diwi/PixelFlow)
 ・json形式のファイルは、毎フレームx,y座標が格納されています。
