@@ -5,6 +5,8 @@ The project is  pixel flow of using path animation with processing.
 ・pathGenerater　　  ・・・The app is for generate of path animation.
 ・pathGeneraterPerframes　・・・The app is loading sequence path animation for generate of path animation
 
+<img src="img.gif" alt="pixel flow" title="pixel flow">
+
 #InkEffectInteractive
 ・Run
 ・Generate effect by mouse point
